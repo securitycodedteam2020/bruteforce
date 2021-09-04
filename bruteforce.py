@@ -36,7 +36,7 @@ def slowness(s):
 
 #INFO
 os.system("clear")
-print("\033[1;36m[AUTOR]:\033[0;Desta Tech\n")
+print("\033[1;36m[AUTOR]:\033[0;m Desta Tech\n")
 time.sleep(0.7)
 print("\033[1;36m[GITHUB]:\033[0;m https://github.com/R3LI4NT\n")
 time.sleep(0.7)
@@ -81,8 +81,8 @@ def banner():
     print(GREEN + Style.NORMAL+"      ██████╔╝██║  ██║╚██████╔╝   ██║   ███████╗     ")
     print(GREEN + Style.NORMAL+"      ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝     ")
 
-    print(WHITE + Style.NORMAL+"""     \033[1;37m«\033[0;Gunakan Tools Sebijak Mungkin\033[1;37m»\033[0;m
-    	              \033[0;31m【\033[0;m\033[1;37Desta Tech\033[0;m\033[0;31m】\033[0;m
+    print(WHITE + Style.NORMAL+"""     \033[1;37m«\033[0;mGunakan Tools Sebijak Mungkin\033[1;37m»\033[0;m
+    	              \033[0;31m【\033[0;m\033[1;37mDesta Tech\033[0;m\033[0;31m】\033[0;m
     	""")
 
     print(BLUE +Style.NORMAL +"       ███████╗ ██████╗ ██████╗  ██████╗███████╗     ")
